@@ -1,13 +1,8 @@
 #main-title {
+    background-color: black;
     color: white;
     font-size: 32px;
     text-align: center;
-  }
-
-header {
-    background-color: black;
-    font-size: 32px;
-    color: white;
   }
 
 .content {
