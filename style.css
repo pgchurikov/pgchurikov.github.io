@@ -11,6 +11,22 @@ body {
 
 .content {
     background-color: black;
+    color: white;
+  }
+
+.expirience {
+    background-color: black;
+    color: white;
+  }
+
+.education {
+    background-color: black;
+    color: white;
+  }
+
+.additional {
+    background-color: black;
+    color: white;
   }
 
 p {
