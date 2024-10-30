@@ -9,7 +9,12 @@ body {
     text-align: center;
   }
 
-.content {
+.contacts {
+    background-color: black;
+    color: white;
+  }
+
+.about {
     background-color: black;
     color: white;
   }
